@@ -11,7 +11,8 @@ package ec.edu.espol.proyectodomino;
 public class Ficha {
     protected int lado1;
     protected int lado2;
-
+    private int lado3;
+    
     public Ficha(int lado1, int lado2) {
         this.lado1 = lado1;
         this.lado2 = lado2;
