@@ -19,6 +19,4 @@ public class FichaComodin extends Ficha {
     public String toString() {
         return "*"+ super.toString()+"*";
     }
-    
-    
 }
